@@ -1,4 +1,4 @@
-import anime from './animejs'; const DISTANCE_THRESHOLD = 70; const SAFE_DISTANCE = 60; const UPDATE_INTERVAL = 33; let isCanvasActive = !0; let isResetting = !1; let lastTime = 0; let _camera, _controls, _canvas; let bar, glow; let isMobile = window.innerWidth < 768; export function switchToScrollMode() {
+import anime from 'animejs'; const DISTANCE_THRESHOLD = 70; const SAFE_DISTANCE = 60; const UPDATE_INTERVAL = 33; let isCanvasActive = !0; let isResetting = !1; let lastTime = 0; let _camera, _controls, _canvas; let bar, glow; let isMobile = window.innerWidth < 768; export function switchToScrollMode() {
     if (!isCanvasActive) return; isCanvasActive = !1; if (_canvas) { _canvas.style.pointerEvents = 'none'; _canvas.style.touchAction = 'none' }
     document.documentElement.style.overflowY = 'auto'; document.body.style.overflowY = 'auto'; document.body.style.touchAction = 'auto'; updateZoomBar(100); setupScrollObservers()
 }
