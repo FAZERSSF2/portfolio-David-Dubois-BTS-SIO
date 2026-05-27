@@ -1,6 +1,6 @@
-import { init as initParticles, nextShape, prevShape } from './assets/js/particles.js';
-import { initScrollLogic } from './assets/js/scroll.js';
-import { UI } from './assets/js/ui.js';
+import { init as initParticles, nextShape, prevShape } from '/portfolio-David-Dubois-BTS-SIO/assets/js/particles.js';
+import { initScrollLogic } from '/portfolio-David-Dubois-BTS-SIO/assets/js/scroll.js';
+import { UI } from '/portfolio-David-Dubois-BTS-SIO/assets/js/ui.js';
 
 window.scrollTo(0, 0);
 
