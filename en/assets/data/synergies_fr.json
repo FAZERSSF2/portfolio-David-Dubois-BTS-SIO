@@ -1,0 +1,327 @@
+{
+  "nodes": {
+    "ia": {
+      "title": "Données Confidentielles",
+      "subtitle": "RGPD & Sécurité",
+      "description": "Protection des données personnelles et confidentielles, conformité RGPD.",
+      "content": "<h3>Protection des données & RGPD</h3><p>Le BTS SIO m'a sensibilisé aux enjeux légaux et techniques liés aux données personnelles et confidentielles en entreprise.</p><ul><li>Principes fondamentaux du RGPD (consentement, droit à l'oubli, portabilité).</li><li>Classification des données sensibles en entreprise.</li><li>Gestion des droits d'accès et politiques de mots de passe.</li><li>Chiffrement des données au repos et en transit.</li><li>Rédaction d'une politique de confidentialité conforme.</li></ul>"
+    },
+    "dev": {
+      "title": "Base de Données",
+      "subtitle": "Administration & Requêtes",
+      "description": "Mise en place et administration de bases de données avec WAMP Server.",
+      "content": "<h3>Bases de données relationnelles</h3><p>Durant cette année, j'ai appris à concevoir, administrer et interroger des bases de données relationnelles dans un environnement local avec <strong>WAMP Server</strong>.</p><ul><li>Installation et configuration de WAMP (Apache, MySQL, PHP).</li><li>Modélisation de schémas relationnels (MCD, MLD).</li><li>Écriture de requêtes SQL : SELECT, JOIN, GROUP BY, sous-requêtes.</li><li>Gestion des utilisateurs et des droits MySQL.</li><li>Utilisation de phpMyAdmin pour l'administration.</li></ul>"
+    },
+    "strat": {
+      "title": "Projet Tutoré",
+      "subtitle": "Expérience & Réalisation",
+      "description": "Projet fil rouge mené sur l'année en équipe dans le cadre du BTS SIO.",
+      "content": "<h3>Projet tutoré BTS SIO</h3><p>Dans le cadre du BTS SIO, j'ai participé à un projet tutoré en équipe. Ce projet m'a permis de mettre en pratique l'ensemble des compétences acquises durant la formation.</p><ul><li>Analyse des besoins et rédaction du cahier des charges.</li><li>Conception de la base de données et des maquettes.</li><li>Développement front-end et back-end (HTML, CSS, PHP, JS).</li><li>Tests, recette et mise en production.</li><li>Rédaction de la documentation technique et utilisateur.</li></ul>"
+    },
+    "cro": {
+      "title": "Développement Web",
+      "subtitle": "HTML · CSS · PHP · JS",
+      "description": "Création de sites et d'applications web dynamiques avec les technologies du web.",
+      "content": "<h3>Développement web full stack</h3><p>Au cours du BTS SIO, j'ai développé plusieurs projets web en utilisant les technologies modernes du front-end et du back-end.</p><ul><li>Intégration HTML5 / CSS3 responsive (Flexbox, Grid).</li><li>Interactivité JavaScript (DOM, événements, fetch API).</li><li>Back-end PHP : traitement de formulaires, sessions, CRUD MySQL.</li><li>Création de sites WordPress et personnalisation de thèmes.</li><li>Déploiement sur serveur Apache (WAMP / hébergement mutualisé).</li></ul>"
+    },
+    "flow": {
+      "title": "Infrastructure Réseau",
+      "subtitle": "Administration Système",
+      "description": "Mise en place et administration d'infrastructures réseau en environnement local et virtualisé.",
+      "content": "<h3>Réseaux & Administration Système</h3><p>Un volet important du BTS SIO SISR est la maîtrise des infrastructures réseau, de la virtualisation et de l'administration des systèmes.</p><ul><li>Configuration de routeurs et switches (Cisco Packet Tracer).</li><li>Mise en place de VLAN et d'adressage IP (IPv4/IPv6).</li><li>Administration Linux (Debian) : services SSH, FTP, DNS, DHCP.</li><li>Virtualisation avec VirtualBox / VMware.</li><li>Supervision réseau et détection d'incidents.</li></ul>"
+    },
+    "ethics": {
+      "title": "Veille Technologique",
+      "subtitle": "Curiosité & Mise à jour",
+      "description": "Pratique régulière de la veille technologique pour rester à jour dans le secteur IT.",
+      "content": "<h3>Veille technologique & informationnelle</h3><p>La veille technologique est une compétence clé du BTS SIO : elle permet de suivre l'évolution rapide du secteur et d'anticiper les nouvelles pratiques.</p><ul><li>Suivi de sources spécialisées : Reddit (r/netsec, r/programming), Hacker News, GitHub Trending.</li><li>Lecture régulière de blogs tech (MDN, CSS-Tricks, ANSSI).</li><li>Mise en place d'un agrégateur de flux RSS (Feedly).</li><li>Rédaction de synthèses de veille pour le dossier E4/E5.</li><li>Suivi des CVE et alertes de sécurité (CERT-FR).</li></ul>"
+    }
+  },
+  "synergies": {
+    "dev-ia": {
+      "title": "Sécurité des données",
+      "description": "Les bases de données et la sécurité vont ensemble.",
+      "content": "<h3>Données protégées</h3><p>La gestion des bases de données implique aussi de sécuriser les informations avec des droits d'accès et du chiffrement.</p>"
+    },
+    "ia-strat": {
+      "title": "Sécurité du projet",
+      "description": "La sécurité est prise en compte dans le projet.",
+      "content": "<h3>Projet sécurisé</h3><p>Lors du projet tutoré, la protection des données est intégrée dès la conception.</p>"
+    },
+    "cro-ia": {
+      "title": "Web et sécurité",
+      "description": "Un site web doit protéger les données utilisateurs.",
+      "content": "<h3>Protection utilisateur</h3><p>Les applications web doivent sécuriser les données des utilisateurs et respecter le RGPD.</p>"
+    },
+    "flow-ia": {
+      "title": "Réseau sécurisé",
+      "description": "Le réseau doit protéger les données qui circulent.",
+      "content": "<h3>Échanges sécurisés</h3><p>Les données qui passent par le réseau doivent être protégées pour éviter les attaques.</p>"
+    },
+    "ethics-ia": {
+      "title": "Veille et sécurité",
+      "description": "La veille aide à améliorer la sécurité.",
+      "content": "<h3>Surveillance</h3><p>La veille technologique permet de suivre les failles et d'améliorer la sécurité des systèmes.</p>"
+    },
+    "dev-strat": {
+      "title": "Projet complet",
+      "description": "Le développement est utilisé dans le projet.",
+      "content": "<h3>Mise en pratique</h3><p>Le projet tutoré permet d'utiliser les compétences en développement pour créer une application.</p>"
+    },
+    "cro-dev": {
+      "title": "Web dynamique",
+      "description": "Le web fonctionne avec les bases de données.",
+      "content": "<h3>Interaction</h3><p>Les sites web utilisent des bases de données pour stocker et afficher des informations dynamiques.</p>"
+    },
+    "dev-flow": {
+      "title": "Application et réseau",
+      "description": "Les applications utilisent le réseau.",
+      "content": "<h3>Communication</h3><p>Les applications communiquent avec les serveurs via le réseau pour fonctionner.</p>"
+    },
+    "dev-ethics": {
+      "title": "Amélioration",
+      "description": "La veille améliore le développement.",
+      "content": "<h3>Progression</h3><p>La veille permet d'apprendre de nouvelles pratiques pour améliorer le code.</p>"
+    },
+    "cro-strat": {
+      "title": "Web dans le projet",
+      "description": "Le web est utilisé dans le projet.",
+      "content": "<h3>Réalisation</h3><p>Le projet tutoré inclut souvent un site web développé de A à Z.</p>"
+    },
+    "flow-strat": {
+      "title": "Réseau du projet",
+      "description": "Le réseau supporte le projet.",
+      "content": "<h3>Infrastructure</h3><p>Le réseau permet de faire fonctionner les applications du projet.</p>"
+    },
+    "ethics-strat": {
+      "title": "Respect des règles",
+      "description": "Le projet respecte les normes.",
+      "content": "<h3>Conformité</h3><p>Le projet doit respecter les règles de sécurité et de protection des données.</p>"
+    },
+    "cro-flow": {
+      "title": "Déploiement web",
+      "description": "Le site est mis en ligne grâce au réseau.",
+      "content": "<h3>Mise en ligne</h3><p>Les compétences réseau permettent de rendre un site accessible sur internet.</p>"
+    },
+    "cro-ethics": {
+      "title": "Web responsable",
+      "description": "Le web respecte les utilisateurs.",
+      "content": "<h3>Respect</h3><p>Les sites web doivent respecter la vie privée et les données des utilisateurs.</p>"
+    },
+    "ethics-flow": {
+      "title": "Sécurité réseau",
+      "description": "Le réseau doit être protégé.",
+      "content": "<h3>Protection</h3><p>Les infrastructures réseau doivent être sécurisées contre les attaques.</p>"
+    },
+    "cro-dev-ethics": {
+      "title": "Développement sécurisé",
+      "description": "Le code doit être sécurisé.",
+      "content": "<h3>Bonnes pratiques</h3><p>Le développement web doit inclure des règles de sécurité pour protéger les données.</p>"
+    },
+    "cro-dev-flow": {
+      "title": "Application complète",
+      "description": "Web, réseau et base de données fonctionnent ensemble.",
+      "content": "<h3>Ensemble</h3><p>Une application web utilise à la fois le développement, le réseau et les données.</p>"
+    },
+    "cro-dev-ia": {
+      "title": "Web sécurisé",
+      "description": "Le web doit gérer et protéger les données.",
+      "content": "<h3>Sécurité web</h3><p>Les applications web doivent gérer les données de manière sécurisée.</p>"
+    },
+    "cro-dev-strat": {
+      "title": "Projet web",
+      "description": "Le développement web est central dans le projet.",
+      "content": "<h3>Projet</h3><p>Le site web est une partie importante du projet tutoré.</p>"
+    },
+    "cro-ethics-flow": {
+      "title": "Données protégées",
+      "description": "Les données circulent de manière sécurisée.",
+      "content": "<h3>Sécurité</h3><p>Les données doivent être protégées lors de leur circulation dans le réseau.</p>"
+    },
+    "cro-ethics-ia": {
+      "title": "Protection utilisateur",
+      "description": "Les données utilisateurs sont sécurisées.",
+      "content": "<h3>Utilisateur</h3><p>Les informations personnelles doivent être protégées dans les applications.</p>"
+    },
+    "cro-ethics-strat": {
+      "title": "Projet responsable",
+      "description": "Le projet respecte les règles.",
+      "content": "<h3>Responsabilité</h3><p>Le projet prend en compte la sécurité et les normes.</p>"
+    },
+    "cro-flow-ia": {
+      "title": "Flux de données",
+      "description": "Les données circulent dans les systèmes.",
+      "content": "<h3>Circulation</h3><p>Les données passent entre le site, le serveur et la base de données.</p>"
+    },
+    "cro-flow-strat": {
+      "title": "Organisation",
+      "description": "Le projet organise les flux de données.",
+      "content": "<h3>Structure</h3><p>Le projet permet de structurer les échanges entre les systèmes.</p>"
+    },
+    "cro-ia-strat": {
+      "title": "Gestion des données",
+      "description": "Les données sont utilisées dans le projet.",
+      "content": "<h3>Données</h3><p>Les données sont importantes dans le développement du projet.</p>"
+    },
+    "dev-ethics-flow": {
+      "title": "Développement sécurisé",
+      "description": "Le code et le réseau doivent être sécurisés.",
+      "content": "<h3>Sécurité</h3><p>Les applications doivent être développées avec des règles de sécurité.</p>"
+    },
+    "dev-ethics-ia": {
+      "title": "Protection des données",
+      "description": "Le développement protège les données.",
+      "content": "<h3>Données</h3><p>Les données doivent être protégées dans les applications développées.</p>"
+    },
+    "dev-ethics-strat": {
+      "title": "Projet conforme",
+      "description": "Le développement respecte les règles.",
+      "content": "<h3>Conformité</h3><p>Le projet doit respecter les normes de sécurité et de qualité.</p>"
+    },
+    "dev-flow-ia": {
+      "title": "Systèmes connectés",
+      "description": "Les applications communiquent entre elles.",
+      "content": "<h3>Connexion</h3><p>Les systèmes échangent des données via le réseau.</p>"
+    },
+    "dev-flow-strat": {
+      "title": "Projet technique",
+      "description": "Le réseau et le développement sont liés.",
+      "content": "<h3>Technique</h3><p>Le projet utilise le réseau pour faire fonctionner les applications.</p>"
+    },
+    "dev-ia-strat": {
+      "title": "Gestion des données",
+      "description": "Les données sont utilisées dans le projet.",
+      "content": "<h3>Données</h3><p>Les données sont essentielles dans le développement du projet.</p>"
+    },
+    "ethics-flow-ia": {
+      "title": "Sécurité globale",
+      "description": "Les systèmes doivent être protégés.",
+      "content": "<h3>Protection</h3><p>La sécurité concerne les données, le réseau et les applications.</p>"
+    },
+    "ethics-flow-strat": {
+      "title": "Projet sécurisé",
+      "description": "Le projet protège les données.",
+      "content": "<h3>Sécurité</h3><p>Le projet doit assurer la protection des informations.</p>"
+    },
+    "ethics-ia-strat": {
+      "title": "Respect des données",
+      "description": "Les données sont protégées dans le projet.",
+      "content": "<h3>Données</h3><p>Les informations personnelles doivent être respectées.</p>"
+    },
+    "flow-ia-strat": {
+      "title": "Infrastructure",
+      "description": "Le réseau supporte les données.",
+      "content": "<h3>Support</h3><p>Le réseau permet de faire circuler les données du projet.</p>"
+    },
+    "cro-dev-ethics-flow": {
+      "title": "Application sécurisée",
+      "description": "Tous les éléments sont liés.",
+      "content": "<h3>Global</h3><p>Une application combine développement, réseau et sécurité.</p>"
+    },
+    "cro-dev-ethics-ia": {
+      "title": "Protection complète",
+      "description": "Les applications doivent être sécurisées.",
+      "content": "<h3>Sécurité</h3><p>Le développement doit protéger les données utilisateurs.</p>"
+    },
+    "cro-dev-ethics-strat": {
+      "title": "Projet complet",
+      "description": "Toutes les compétences sont utilisées.",
+      "content": "<h3>Global</h3><p>Le projet regroupe toutes les compétences du BTS SIO.</p>"
+    },
+    "cro-dev-flow-ia": {
+      "title": "Système complet",
+      "description": "Tous les éléments fonctionnent ensemble.",
+      "content": "<h3>Ensemble</h3><p>Les applications utilisent le réseau et les données pour fonctionner.</p>"
+    },
+    "cro-dev-flow-strat": {
+      "title": "Organisation du projet",
+      "description": "Le projet structure les systèmes.",
+      "content": "<h3>Organisation</h3><p>Le projet permet de structurer le développement et le réseau.</p>"
+    },
+    "cro-dev-ia-strat": {
+      "title": "Projet technique",
+      "description": "Les données sont utilisées dans le projet.",
+      "content": "<h3>Données</h3><p>Le projet utilise des données pour fonctionner.</p>"
+    },
+    "cro-ethics-flow-ia": {
+      "title": "Protection des flux",
+      "description": "Les données sont sécurisées.",
+      "content": "<h3>Sécurité</h3><p>Les flux de données doivent être protégés.</p>"
+    },
+    "cro-ethics-flow-strat": {
+      "title": "Projet fiable",
+      "description": "Le projet est sécurisé.",
+      "content": "<h3>Fiabilité</h3><p>Le projet doit garantir la sécurité et la stabilité.</p>"
+    },
+    "cro-ethics-ia-strat": {
+      "title": "Respect utilisateur",
+      "description": "Les données sont protégées.",
+      "content": "<h3>Utilisateur</h3><p>Les informations doivent être respectées et sécurisées.</p>"
+    },
+    "cro-flow-ia-strat": {
+      "title": "Gestion globale",
+      "description": "Les systèmes fonctionnent ensemble.",
+      "content": "<h3>Global</h3><p>Les données, le réseau et le projet sont liés.</p>"
+    },
+    "dev-ethics-flow-ia": {
+      "title": "Sécurité complète",
+      "description": "Tout doit être protégé.",
+      "content": "<h3>Protection</h3><p>Les applications, le réseau et les données doivent être sécurisés.</p>"
+    },
+    "dev-ethics-flow-strat": {
+      "title": "Projet sécurisé",
+      "description": "Le projet respecte les règles.",
+      "content": "<h3>Conformité</h3><p>Le projet doit respecter les normes de sécurité.</p>"
+    },
+    "dev-ethics-ia-strat": {
+      "title": "Protection des données",
+      "description": "Les données sont importantes.",
+      "content": "<h3>Données</h3><p>Les données doivent être protégées dans le projet.</p>"
+    },
+    "dev-flow-ia-strat": {
+      "title": "Systèmes liés",
+      "description": "Tout fonctionne ensemble.",
+      "content": "<h3>Connexion</h3><p>Les systèmes communiquent entre eux pour fonctionner.</p>"
+    },
+    "ethics-flow-ia-strat": {
+      "title": "Sécurité globale",
+      "description": "Tous les éléments sont sécurisés.",
+      "content": "<h3>Sécurité</h3><p>Le projet doit protéger les données et les systèmes.</p>"
+    },
+    "cro-dev-ethics-flow-ia": {
+      "title": "Application complète",
+      "description": "Tous les éléments sont réunis.",
+      "content": "<h3>Global</h3><p>Une application utilise toutes les compétences du BTS SIO.</p>"
+    },
+    "cro-dev-ethics-flow-strat": {
+      "title": "Projet final",
+      "description": "Toutes les compétences sont utilisées.",
+      "content": "<h3>Final</h3><p>Le projet regroupe toutes les connaissances acquises.</p>"
+    },
+    "cro-dev-ethics-ia-strat": {
+      "title": "Projet global",
+      "description": "Toutes les compétences sont liées.",
+      "content": "<h3>Ensemble</h3><p>Le projet combine développement, réseau, données et sécurité.</p>"
+    },
+    "cro-dev-flow-ia-strat": {
+      "title": "Système complet",
+      "description": "Tous les éléments fonctionnent ensemble.",
+      "content": "<h3>Global</h3><p>Le système repose sur plusieurs compétences combinées.</p>"
+    },
+    "cro-ethics-flow-ia-strat": {
+      "title": "Projet sécurisé",
+      "description": "Le projet protège les données.",
+      "content": "<h3>Sécurité</h3><p>Le projet garantit la protection des informations.</p>"
+    },
+    "dev-ethics-flow-ia-strat": {
+      "title": "Compétences complètes",
+      "description": "Toutes les compétences sont utilisées.",
+      "content": "<h3>Compétences</h3><p>Le BTS SIO permet d'acquérir plusieurs compétences complémentaires.</p>"
+    },
+    "cro-dev-ethics-flow-ia-strat": {
+      "title": "Fin d'études BTS SIO",
+      "description": "Toutes les compétences sont réunies pour l'examen.",
+      "content": "<h3>Conclusion</h3><p>Si les compétences sont maîtrisées, le projet et les épreuves finales deviennent accessibles.</p>"
+    }
+  }
+}

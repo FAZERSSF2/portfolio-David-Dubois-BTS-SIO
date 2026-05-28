@@ -1,0 +1,327 @@
+{
+  "nodes": {
+    "ia": {
+      "title": "Tutored Project",
+      "subtitle": "Experience & Delivery",
+      "description": "Year-long team project carried out as part of the BTS SIO programme.",
+      "content": "<h3>BTS SIO Tutored Project</h3><p>As part of the BTS SIO programme, I took part in a team tutored project. It allowed me to apply all the skills acquired during my training.</p><ul><li>Requirements analysis and specification writing.</li><li>Database design and wireframing.</li><li>Front-end and back-end development (HTML, CSS, PHP, JS).</li><li>Testing, acceptance and deployment.</li><li>Technical and user documentation.</li></ul>"
+    },
+    "dev": {
+      "title": "Database",
+      "subtitle": "Administration & Queries",
+      "description": "Setting up and administering databases using WAMP Server.",
+      "content": "<h3>Relational Databases</h3><p>During this year I learned to design, administer and query relational databases in a local environment using <strong>WAMP Server</strong>.</p><ul><li>Installing and configuring WAMP (Apache, MySQL, PHP).</li><li>Relational schema modelling (ERD, logical model).</li><li>Writing SQL queries: SELECT, JOIN, GROUP BY, subqueries.</li><li>Managing MySQL users and permissions.</li><li>Using phpMyAdmin for administration.</li></ul>"
+    },
+    "strat": {
+      "title": "Confidential Data",
+      "subtitle": "GDPR & Security",
+      "description": "Protecting personal and confidential data, GDPR compliance.",
+      "content": "<h3>Data Protection & GDPR</h3><p>The BTS SIO programme raised my awareness of the legal and technical issues around personal and confidential data in business.</p><ul><li>Core GDPR principles (consent, right to erasure, portability).</li><li>Classifying sensitive business data.</li><li>Access rights management and password policies.</li><li>Encryption at rest and in transit.</li><li>Drafting a compliant privacy policy.</li></ul>"
+    },
+    "cro": {
+      "title": "Network Infrastructure",
+      "subtitle": "System Administration",
+      "description": "Setting up and administering network infrastructures in local and virtualised environments.",
+      "content": "<h3>Networking & System Administration</h3><p>A key part of the BTS SIO SISR track is mastering network infrastructures, virtualisation, and system administration.</p><ul><li>Router and switch configuration (Cisco Packet Tracer).</li><li>VLAN setup and IP addressing (IPv4/IPv6).</li><li>Linux (Debian) administration: SSH, FTP, DNS, DHCP services.</li><li>Virtualisation with VirtualBox / VMware.</li><li>Network monitoring and incident detection.</li></ul>"
+    },
+    "flow": {
+      "title": "Web Development",
+      "subtitle": "HTML · CSS · PHP · JS",
+      "description": "Building dynamic websites and web applications using modern web technologies.",
+      "content": "<h3>Full Stack Web Development</h3><p>During my BTS SIO training I developed several web projects using modern front-end and back-end technologies.</p><ul><li>Responsive HTML5 / CSS3 integration (Flexbox, Grid).</li><li>JavaScript interactivity (DOM, events, fetch API).</li><li>PHP back-end: form handling, sessions, MySQL CRUD.</li><li>WordPress site creation and theme customisation.</li><li>Deployment on Apache servers (WAMP / shared hosting).</li></ul>"
+    },
+    "ethics": {
+      "title": "Technology Watch",
+      "subtitle": "Curiosity & Staying Current",
+      "description": "Regular technology monitoring to stay up to date in the IT sector.",
+      "content": "<h3>Technology & Information Watch</h3><p>Technology monitoring is a key BTS SIO skill: it keeps you up to date with the fast-moving IT sector and helps you anticipate emerging practices.</p><ul><li>Following specialist sources: Reddit (r/netsec, r/programming), Hacker News, GitHub Trending.</li><li>Regular reading of tech blogs (MDN, CSS-Tricks, ANSSI).</li><li>Setting up an RSS feed aggregator (Feedly).</li><li>Writing technology watch summaries for the E4/E5 portfolio.</li><li>Tracking CVEs and security alerts (CERT-FR).</li></ul>"
+    }
+  },
+  "synergies": {
+    "dev-ia": {
+      "title": "Intelligent Software",
+      "description": "Merging robust development with cognitive capabilities.",
+      "content": "<h3>Thinking Applications</h3><p>By integrating AI directly into the software development lifecycle, we create self-adaptive applications. From interfaces that learn from the user to backends that self-optimize.</p>"
+    },
+    "ia-strat": {
+      "title": "Predictive Strategy",
+      "description": "Decision making based on future data, not the past.",
+      "content": "<h3>Strategic Anticipation</h3><p>We use AI to simulate market scenarios and validate strategies before investing. Reduce risk and maximize the impact of your business decisions.</p>"
+    },
+    "cro-ia": {
+      "title": "Autonomous Conversion",
+      "description": "Real-time dynamic personalization for every user.",
+      "content": "<h3>Hyper-Personalization</h3><p>AI analyzes user behavior in milliseconds to adapt the web (CRO) instantly: changing copy, offers, and layouts to maximize conversion probability.</p>"
+    },
+    "flow-ia": {
+      "title": "Smart Data Pipelines",
+      "description": "Data flows that self-clean and classify.",
+      "content": "<h3>Living Data</h3><p>We apply AI to information flows to detect anomalies in real-time, automatically classify documents, and enrich data without human intervention.</p>"
+    },
+    "ethics-ia": {
+      "title": "Responsible AI",
+      "description": "Transparent, fair, and auditable algorithms.",
+      "content": "<h3>The Glass Box</h3><p>We develop Explainable AI (XAI) systems that comply with the strictest ethical regulations, ensuring that automated decisions are fair and free from bias.</p>"
+    },
+    "dev-strat": {
+      "title": "Business Architecture",
+      "description": "Technology built specifically for commercial goals.",
+      "content": "<h3>Tech-Business Alignment</h3><p>Software development stops being a cost and becomes a strategic investment. Every line of code answers to a business KPI defined in the strategy phase.</p>"
+    },
+    "cro-dev": {
+      "title": "Growth Engineering",
+      "description": "Agile development focused on growth metrics.",
+      "content": "<h3>Growth Engineering</h3><p>Technical implementation of advanced measurement tools and flexible structures that allow the marketing team to iterate experiments without depending on slow deploys.</p>"
+    },
+    "dev-flow": {
+      "title": "Integrated Ecosystems",
+      "description": "Disparate systems working as one.",
+      "content": "<h3>Total Connectivity</h3><p>We create middleware and custom APIs that allow your custom software to speak fluently with legacy systems or third-party tools, eliminating information silos.</p>"
+    },
+    "dev-ethics": {
+      "title": "Inclusive Development",
+      "description": "Accessible and secure software from the first commit.",
+      "content": "<h3>Code for Everyone</h3><p>We integrate accessibility and security validations into the CI/CD pipeline. The result is robust software that meets legal standards and is usable by everyone.</p>"
+    },
+    "cro-strat": {
+      "title": "Profitability Design",
+      "description": "Strategy defines the 'what', CRO defines the 'how'.",
+      "content": "<h3>Maximizing Value</h3><p>We align market strategy with on-site optimization. We ensure that the traffic attracted by the strategy converts efficiently into real value.</p>"
+    },
+    "flow-strat": {
+      "title": "Business Intelligence",
+      "description": "Dashboards that guide leadership.",
+      "content": "<h3>Operational Clarity</h3><p>We design information flows that directly feed strategy. Real-time KPIs that allow the company to pivot strategy with agility.</p>"
+    },
+    "ethics-strat": {
+      "title": "Digital Sustainability",
+      "description": "Long-term strategies that protect reputation.",
+      "content": "<h3>Reputation as an Asset</h3><p>We incorporate ethics and regulatory compliance into the core of corporate strategy, differentiating the brand through its transparency and respect for the user.</p>"
+    },
+    "cro-flow": {
+      "title": "Advanced Analytics",
+      "description": "Behavioral data flowing into decision systems.",
+      "content": "<h3>Feedback Loop</h3><p>We connect conversion data (CRO) with your internal systems (Flow). Sales knows what the customer did on the web, and Marketing knows which leads actually closed.</p>"
+    },
+    "cro-ethics": {
+      "title": "Ethical Marketing",
+      "description": "Persuasion without manipulation.",
+      "content": "<h3>Trust is Conversion</h3><p>We optimize conversion while respecting user privacy (no dark patterns). We demonstrate that transparency and consent increase customer loyalty and lifetime value.</p>"
+    },
+    "ethics-flow": {
+      "title": "Data Governance",
+      "description": "Secure and compliant information flows.",
+      "content": "<h3>Information Security</h3><p>We ensure data flow respects access and retention policies. Full traceability of who accesses what data and when, complying with GDPR.</p>"
+    },
+    "cro-dev-ethics": {
+      "title": "Ethical Growth Engineering",
+      "description": "Sales-oriented development that respects the user.",
+      "content": "<h3>Responsible Scalability</h3><p>We merge Growth Hacking techniques with solid development and ethical principles. Fast results that build long-term brand equity, creating high-converting platforms that inspire trust.</p>"
+    },
+    "cro-dev-flow": {
+      "title": "Digital Sales Machine",
+      "description": "Technical infrastructure optimized to convert and connect.",
+      "content": "<h3>Unified Pipeline</h3><p>From ad click to ERP registration. We develop systems where conversion optimization (CRO) is fed by real-time operational data to close the sales loop.</p>"
+    },
+    "cro-dev-ia": {
+      "title": "Cognitive Digital Product",
+      "description": "Software that evolves, learns, and sells by itself.",
+      "content": "<h3>Autonomous Evolution</h3><p>We create living applications. We use AI to adapt the interface and functionality in real-time, based on which variants convert best for each user type.</p>"
+    },
+    "cro-dev-strat": {
+      "title": "High-Impact Platform",
+      "description": "Perfect technical execution of a commercial vision.",
+      "content": "<h3>Strategy Made Code</h3><p>We don't develop for the sake of it. We build digital assets surgically designed to meet strategic goals, where every feature serves a direct business purpose.</p>"
+    },
+    "cro-ethics-flow": {
+      "title": "Data Trust & Transparency",
+      "description": "Conversion based on trust and clear data.",
+      "content": "<h3>Trust as Currency</h3><p>Transparent information systems where the user is in control. We turn strict compliance and data traceability into a competitive conversion advantage.</p>"
+    },
+    "cro-ethics-ia": {
+      "title": "Fair Algorithmic Persuasion",
+      "description": "Artificial Intelligence that convinces without manipulating.",
+      "content": "<h3>Ethical Predictive Marketing</h3><p>We use AI to present the perfect offer at the exact moment, rigorously respecting ethical boundaries and avoiding dark patterns. Sales driven by genuine value.</p>"
+    },
+    "cro-ethics-strat": {
+      "title": "Sustainable Brand Growth",
+      "description": "Profitability aligned with corporate values.",
+      "content": "<h3>Real Value</h3><p>Conversion optimization strategies that prioritize long-term satisfaction over quick, impulsive clicks. We build solid, respected, and highly profitable businesses.</p>"
+    },
+    "cro-flow-ia": {
+      "title": "Hyper-Speed Optimization",
+      "description": "Data flows that predict and convert instantly.",
+      "content": "<h3>Real-Time Conversion</h3><p>AI engines analyzing massive data streams to adjust sales funnels millisecond by millisecond. The ultimate expression of automated commercial efficiency.</p>"
+    },
+    "cro-flow-strat": {
+      "title": "Total Commercial Intelligence",
+      "description": "360º vision from strategy to transaction.",
+      "content": "<h3>Informed Decisions</h3><p>We unite strategic vision with tactical CRO execution and real business data. Eliminate assumptions: every strategic decision is backed by real conversion data.</p>"
+    },
+    "cro-ia-strat": {
+      "title": "Predictive Markets",
+      "description": "Creating the market future before it arrives.",
+      "content": "<h3>Demand Anticipation</h3><p>AI systems that analyze macro trends to inform strategy and prepare sales channels (CRO) before the competition even detects the opportunity.</p>"
+    },
+    "dev-ethics-flow": {
+      "title": "Armored Infrastructure",
+      "description": "Security, privacy, and efficiency in data handling.",
+      "content": "<h3>Digital Fortress</h3><p>Development architectures integrating 'Privacy by Design' and encrypted data flows. We guarantee technical and legal compliance without sacrificing system performance.</p>"
+    },
+    "dev-ethics-ia": {
+      "title": "Fair Algorithms",
+      "description": "Advanced technology with conscience and responsibility.",
+      "content": "<h3>Explainable AI (XAI)</h3><p>Development of transparent and auditable artificial intelligence models. We avoid technological 'black boxes' in critical processes, ensuring fair and robust software.</p>"
+    },
+    "dev-ethics-strat": {
+      "title": "Technology with Purpose",
+      "description": "Technical innovation with a long-term vision.",
+      "content": "<h3>Digital Legacy</h3><p>We develop solutions that endure. Strategy and ethics guide engineering to avoid both technical debt and moral debt in the future.</p>"
+    },
+    "dev-flow-ia": {
+      "title": "Systemic Automation",
+      "description": "The company that manages and optimizes itself.",
+      "content": "<h3>Autonomous Operations</h3><p>Interconnected systems that speak to each other and make routine decisions automatically thanks to AI. Free up human talent for creative tasks while software manages the flow.</p>"
+    },
+    "dev-flow-strat": {
+      "title": "Enterprise Architecture",
+      "description": "The solid technological foundation of the business model.",
+      "content": "<h3>Business Life Support</h3><p>We design the information flow and technology platform to seamlessly support expansion strategy. Technology that scales at the exact pace set by the strategy.</p>"
+    },
+    "dev-ia-strat": {
+      "title": "Disruptive Innovation",
+      "description": "Creating unique products by redefining the possible.",
+      "content": "<h3>Unfair Advantage</h3><p>We combine strategic vision with advanced engineering capability and AI power to create revolutionary products that make the competition obsolete.</p>"
+    },
+    "ethics-flow-ia": {
+      "title": "Intelligent Governance",
+      "description": "Automated total control over data and intelligence.",
+      "content": "<h3>The Digital Judge</h3><p>Automated systems monitoring data flow 24/7 to ensure ethical and legal compliance in real-time, detecting breaches before they occur.</p>"
+    },
+    "ethics-flow-strat": {
+      "title": "Strategic Compliance",
+      "description": "Regulations and data as a business asset.",
+      "content": "<h3>Active Legal Security</h3><p>We align corporate information flows and global strategy with international ethical frameworks. Your company, prepared and armored for any regulatory future.</p>"
+    },
+    "ethics-ia-strat": {
+      "title": "Technological Leadership",
+      "description": "Moral direction in the age of artificial intelligence.",
+      "content": "<h3>Conscious Direction</h3><p>We define how the organization will use AI power to advance its strategic goals without losing its moral compass, differentiating itself through trust.</p>"
+    },
+    "flow-ia-strat": {
+      "title": "Central Brain",
+      "description": "The central nervous system of the modern organization.",
+      "content": "<h3>Total Orchestration</h3><p>Strategy fed by live data and processed by artificial intelligence. The company reacts like a living organism, adapting its course automatically to environmental changes.</p>"
+    },
+    "cro-dev-ethics-flow": {
+      "title": "Platform of Trust",
+      "description": "Secure, optimized, and transparent digital ecosystem.",
+      "content": "<h3>Total Reliability</h3><p>An environment where robust development and secure data flows power conversion. Ethics is not a brake, but the accelerator allowing safe processing of user data to sell more.</p>"
+    },
+    "cro-dev-ethics-ia": {
+      "title": "Experience Engine",
+      "description": "Engine for personalized and fair digital experiences.",
+      "content": "<h3>Artificial Empathy</h3><p>Software that understands the user (AI), adapts the interface for them (CRO), works perfectly (Dev), and respects their rights (Ethics). The ultimate user experience.</p>"
+    },
+    "cro-dev-ethics-strat": {
+      "title": "Conscious Transformation",
+      "description": "Deep, profitable, and human digital change.",
+      "content": "<h3>Positive Impact</h3><p>We align technology, sales, and ethics under a single strategy. We create digital products that are not only profitable but improve the brand-customer relationship at fundamental levels.</p>"
+    },
+    "cro-dev-flow-ia": {
+      "title": "Autonomous Omnichannel",
+      "description": "Unified sales and operations across all channels.",
+      "content": "<h3>Ubiquitous Presence</h3><p>Systems connecting web, app, and physical (Flow), optimizing every touchpoint (CRO) and managing themselves (Dev + AI). Your business operational everywhere, all the time.</p>"
+    },
+    "cro-dev-flow-strat": {
+      "title": "Unified Operations",
+      "description": "Perfect synchronization between business and technology.",
+      "content": "<h3>Radical Efficiency</h3><p>We eliminate the barrier between 'IT' and 'Business'. Strategy, data, development, and sales operate as a single functional unit, maximizing the ROI of every tech resource.</p>"
+    },
+    "cro-dev-ia-strat": {
+      "title": "Market Dominance",
+      "description": "Technological superiority applied to sales.",
+      "content": "<h3>Technical Leadership</h3><p>We use AI and advanced development as strategic weapons to capture market share. Continuous optimization (CRO) backed by superior engineering.</p>"
+    },
+    "cro-ethics-flow-ia": {
+      "title": "Customer Intelligence",
+      "description": "Deep and respectful user knowledge.",
+      "content": "<h3>Customer Insights 2.0</h3><p>Data flows analyzed by AI extracting invaluable insights for conversion, but with an ethical layer that rigorously anonymizes and protects user identity.</p>"
+    },
+    "cro-ethics-flow-strat": {
+      "title": "Transparent Business",
+      "description": "Radical clarity from strategy to data.",
+      "content": "<h3>Data Truth</h3><p>Strategies based on audited and clean data. We optimize conversion without tricks, using truthful information flows that align the entire organization toward real goals.</p>"
+    },
+    "cro-ethics-ia-strat": {
+      "title": "Responsible Vision",
+      "description": "The future of sales with principles.",
+      "content": "<h3>Ethical Vanguard</h3><p>We anticipate a future where AI defines the market. Our strategy ensures your company leads that future not just through technology, but by being the brand humans trust.</p>"
+    },
+    "cro-flow-ia-strat": {
+      "title": "Predictive Direction",
+      "description": "Business navigation assisted by AI.",
+      "content": "<h3>The Autopilot</h3><p>Strategy sets the destination, AI drives, data (Flow) are the sensors, and CRO is the engine. A company that adjusts itself to market turbulence to reach its goal.</p>"
+    },
+    "dev-ethics-flow-ia": {
+      "title": "Secure Backbone",
+      "description": "The intelligent and secure backbone of the company.",
+      "content": "<h3>Technological Core</h3><p>Critical infrastructure processing data with AI, maintaining security, and evolving software. It is the silent, powerful engine allowing the entire business to run without risk.</p>"
+    },
+    "dev-ethics-flow-strat": {
+      "title": "Critical Infrastructure",
+      "description": "Vital systems aligned with corporate mission.",
+      "content": "<h3>Strategic Resilience</h3><p>We build future-proof, fail-safe systems. Strategy dictates architecture, ensuring data flow and regulatory compliance scale along with the company's ambition.</p>"
+    },
+    "dev-ethics-ia-strat": {
+      "title": "Secure Future",
+      "description": "Responsible innovation as a growth strategy.",
+      "content": "<h3>Sustainable Progress</h3><p>We create tomorrow's technology today, but with the necessary ethical controls to ensure it is beneficial. Strategic AI development for lasting leadership.</p>"
+    },
+    "dev-flow-ia-strat": {
+      "title": "Autonomous Enterprise",
+      "description": "The self-managed organization of the future.",
+      "content": "<h3>Living Systems</h3><p>A perfect symbiosis of strategy, code, data, and AI. The company executes, measures, learns, and improves its own internal processes and products without operational human friction.</p>"
+    },
+    "ethics-flow-ia-strat": {
+      "title": "Digital Governance",
+      "description": "The gold standard in corporate management.",
+      "content": "<h3>Total Control</h3><p>The ultimate union of direction (Strategy), control (Ethics), information (Flow), and intelligence (AI). Ensures every automated decision aligns with its values and goals.</p>"
+    },
+    "cro-dev-ethics-flow-ia": {
+      "title": "Operational Singularity",
+      "description": "The perfect machine of digital execution.",
+      "content": "<h3>Perfect Execution</h3><p>Integrates all operational capabilities: sells (CRO), builds (Dev), protects (Ethics), connects (Flow), and thinks (AI). An operational powerhouse ready to be directed.</p>"
+    },
+    "cro-dev-ethics-flow-strat": {
+      "title": "Holistic Corporation",
+      "description": "The complete and human digital business.",
+      "content": "<h3>Total Balance</h3><p>A business model where commercial aggressiveness (CRO) and technology (Dev/Flow) are perfectly counterbalanced and guided by strategy and ethics. Healthy, steady growth.</p>"
+    },
+    "cro-dev-ethics-ia-strat": {
+      "title": "Ethical Vanguard",
+      "description": "Market leadership through technology and values.",
+      "content": "<h3>Innovation with Soul</h3><p>The combination of the sharpest capabilities (AI, Dev) with the highest goals (Strategy, CRO) and the strictest standards (Ethics). For companies that define eras.</p>"
+    },
+    "cro-dev-flow-ia-strat": {
+      "title": "Unlimited Power",
+      "description": "Technological and commercial capacity unleashed.",
+      "content": "<h3>Intelligent Brute Force</h3><p>When you remove constraints, you get this. Data, AI, Development, Strategy, and Sales working in unison to dominate the market through sheer execution superiority and capacity.</p>"
+    },
+    "cro-ethics-flow-ia-strat": {
+      "title": "Corporate Sovereignty",
+      "description": "Intelligence and absolute control over business destiny.",
+      "content": "<h3>The Perfect Brain</h3><p>A decision-making and optimization system that is not only intelligent (AI) and effective (CRO), but wise (Ethics/Strategy) and all-aware (Flow). Senior management augmented.</p>"
+    },
+    "dev-ethics-flow-ia-strat": {
+      "title": "Complex Digital Core",
+      "description": "The ultimate technological foundation for any multinational.",
+      "content": "<h3>Foundations of the Future</h3><p>The most advanced technological core possible. Integrates creation (Dev), intelligence (IA), circulation (Flow), purpose (Strat), and control (Ethics). The foundation upon which empires are built.</p>"
+    },
+    "cro-dev-ethics-flow-ia-strat": {
+      "title": "nek",
+      "description": "The absolute convergence of all digital disciplines.",
+      "content": "<h3>In the heart of your company</h3><p>Choose <strong>BrainIT</strong> as your strategic partner. No silos, no friction. Strategy, Intelligence, Execution, Data, Ethics, and Conversion operate as a single hive mind.</p><ul><li><strong>Omniscience:</strong> Data flowing and being analyzed in real-time.</li><li><strong>Omnipotence:</strong> Unlimited and autonomous execution capability.</li><li><strong>Integrity:</strong> An unbreakable ethical core guiding infinite growth.</li></ul>"
+    }
+  }
+}
